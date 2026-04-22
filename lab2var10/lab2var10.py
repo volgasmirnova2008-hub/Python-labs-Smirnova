@@ -1,6 +1,5 @@
 from Bio import SeqIO
 from Bio.Seq import Seq
-import os
 
 def sequences_to_protein_fasta(filename): #IN1.fasta IN2.fasta IN3.fasta
     results = []
