@@ -1,0 +1,381 @@
+LOCUS       PX505713                1539 bp    mRNA    linear   PLN 29-DEC-2025
+DEFINITION  Arabidopsis thaliana xylan 2-O-xylosyltransferase 3 (XYXT3) mRNA,
+            complete cds.
+ACCESSION   PX505713
+VERSION     PX505713.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1539)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Deciphering the Biochemical Functions and Nucleotide Sugar Donor
+            Specificity Determinants of Dicot GT61 Glycosyltransferases Involved
+            in Xylan Substitutions
+  JOURNAL   Plant Cell Physiol (2025) In press
+REFERENCE   2  (bases 1 to 1539)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) Department of Plant Biology, University of
+            Georgia, 2502 Miller Plant Sciences, Athens, GA 30602, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1539
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+     gene            1..1539
+                     /gene="XYXT3"
+     CDS             13..1527
+                     /gene="XYXT3"
+                     /codon_start=1
+                     /product="xylan 2-O-xylosyltransferase 3"
+                     /protein_id="YCJ02042.1"
+                     /translation="MVQYKRLIKKGEKHRLSVEEGGSGASAVTVSGGVYSKTAKQKLLL
+                     TIFLSLLSCCYIFSFSSFSLLGAFSRESKGFGPYELFIAPLCSGTSNGTICCDRTGSRS
+                     DVCIMKGDVRTHSASSSVFLFTSLKNKTKITKKIKPYTRKWETSVMQTVQELNLVYRDE
+                     ENNSLVVSSVNDICDVFYNVPAVFFSTGGYTGNVYHEFNDGIIPLFITSHHFNKKVVFV
+                     IVEYHSWWIMKYGDIVSQLSDYPPVDFNGDKRTHCFKEAIVGLKIHDELTVESSLMLGN
+                     KTILDFRNVLDQAYWPRIHGLIQEEELKAANKTEDGFKKPILVILSRNGSREILNESLL
+                     VELAEEIGFIVHVLRPDKTTELAKIYRCLNSSDVMIGVHGAAMTHLLFLKPKTVFIQII
+                     PIGTEWAAETYYGKPAKKMRLKYIGYKIKPKESSLYDEYGIDDPIIRDPKSFTQKGWDY
+                     TKKIYLERQNVKLDLKRFRKPLSRAYDFSMKRIGLVYISHKPDVTN"
+ORIGIN
+        1 gttcgataga aaatggttca atacaaaaga ctaattaaaa aaggagaaaa gcatagactt
+       61 tcggtagaag aaggtggttc cggtgcctcc gccgtcactg tctccggcgg tgtgtactca
+      121 aagacagcca aacagaagct tctcttaact atctttctct ctttgctctc atgctgttac
+      181 atcttcagct tctcctcttt ctctcttcta ggtgctttta gcagagaaag taaaggattt
+      241 ggtccttatg aactgttcat tgcacctctt tgttcaggaa cctctaatgg aacaatttgt
+      301 tgtgacagaa ccggttctag atccgacgtt tgtatcatga aaggagacgt taggacacac
+      361 tctgcttcgt catcagtctt cctcttcact tccctcaaaa acaagaccaa gatcacgaaa
+      421 aagatcaaac cttacacaag aaaatgggaa acaagtgtga tgcaaacagt tcaagaactc
+      481 aatctcgttt acagagatga agaaaacaat tctttagtcg tctcctctgt taatgacatc
+      541 tgcgatgtgt tctataacgt tcctgctgtg tttttctcaa ctggtggata tacaggaaat
+      601 gtttaccacg aattcaacga tggaatcatc cctttgttca tcacttcaca tcatttcaac
+      661 aagaaggttg tgtttgtgat tgttgagtat catagttggt ggattatgaa atatggagat
+      721 atcgtttctc agctatcaga ttatcctcct gtcgacttta acggcgacaa gagaacacat
+      781 tgtttcaagg aagctattgt gggattgaag attcacgacg agttaaccgt tgaatcatcg
+      841 ttgatgcttg ggaataaaac aattcttgat ttcagaaatg tgctggatca ggcttattgg
+      901 ccacgtatcc atggattgat tcaagaggaa gaactcaagg cagctaacaa gacagaagac
+      961 ggtttcaaga aaccaatatt ggtgattctg tctagaaatg gatcgaggga gatactaaat
+     1021 gagagtcttt tggttgaatt agctgaggaa attggattca tcgtccatgt tttgagaccg
+     1081 gataaaacaa cagagctggc aaaaatctac agatgtttga attctagtga tgtgatgatt
+     1141 ggtgttcacg gagctgcaat gacacattta cttttcttga aaccgaaaac agtctttata
+     1201 cagattatac caataggaac cgaatgggct gctgagactt actatggtaa accagctaag
+     1261 aagatgagat tgaagtacat tggttacaag attaaaccga aagagagctc tttgtacgat
+     1321 gaatatggca tcgatgatcc cattatccga gatcctaaga gttttactca aaaaggatgg
+     1381 gattacacta agaagattta tcttgagcgc caaaacgtga agcttgattt gaaaagattt
+     1441 aggaaaccgt tgtctcgtgc ttatgatttc tcgatgaagc gaattggact ggtgtatatc
+     1501 agtcacaaac cggatgttac caattaaacc ggggtttga
+//
+LOCUS       PX505712                1523 bp    mRNA    linear   PLN 29-DEC-2025
+DEFINITION  Arabidopsis thaliana xylan 2-O-xylosyltransferase 2 (XYXT2) mRNA,
+            complete cds.
+ACCESSION   PX505712
+VERSION     PX505712.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1523)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Deciphering the Biochemical Functions and Nucleotide Sugar Donor
+            Specificity Determinants of Dicot GT61 Glycosyltransferases Involved
+            in Xylan Substitutions
+  JOURNAL   Plant Cell Physiol (2025) In press
+REFERENCE   2  (bases 1 to 1523)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) Department of Plant Biology, University of
+            Georgia, 2502 Miller Plant Sciences, Athens, GA 30602, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1523
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+     gene            1..1523
+                     /gene="XYXT2"
+     CDS             7..1509
+                     /gene="XYXT2"
+                     /codon_start=1
+                     /product="xylan 2-O-xylosyltransferase 2"
+                     /protein_id="YCJ02041.1"
+                     /translation="MVQYQRLIIHHGRKEDKFRVSSAEESGGGGCCYSKRAKQKFRCLL
+                     FLSILSCCFVLSPYYLFGFSTLSLLDSFRREIEGLSSYEPVITPLCSEISNGTICCDRT
+                     GLRSDICVMKGDVRTNSASSSIFLFTSSTNNNTKPEKIKPYTRKWETSVMDTVQELNLI
+                     TKDSNKSSDRVCDVYHDVPAVFFSTGGYTGNVYHEFNDGIIPLFITSQHYNKKVVFVIV
+                     EYHDWWEMKYGDVVSQLSDYPLVDFNGDTRTHCFKEATVGLRIHDELTVNSSLVIGNQT
+                     IVDFRNVLDRGYSHRIQSLTQEETEANVTALDFKKKPKLVILSRNGSSRAILNENLLVE
+                     LAEKTGFNVEVLRPQKTTEMAKIYRSLNTSDVMIGVHGAAMTHFLFLKPKTVFIQIIPL
+                     GTDWAAETYYGEPAKKLGLKYVGYKIAPKESSLYEEYGKDDPVIRDPDSLNDKGWEYTK
+                     KIYLQGQNVKLDLRRFRETLTRSYDFSIRRRFREDYLLHRED"
+ORIGIN
+        1 cagaagatgg tgcagtacca gagattaatc atccaccatg gaagaaaaga agataagttt
+       61 agagtttctt cagcagagga aagtggtgga ggtggttgtt gctactccaa gagagctaaa
+      121 caaaagtttc gttgtcttct ctttctctct atcctctctt gctgtttcgt cttgtctcct
+      181 tattacctct tcggcttctc tactctctcc ctcctagatt cgtttcgcag agaaatcgaa
+      241 ggtcttagct cttatgagcc agttattacc cctctgtgct cagaaatctc caatggaacc
+      301 atttgttgtg acagaaccgg tttgagatct gatatttgtg taatgaaagg tgatgttcga
+      361 acaaactctg cttcttcctc aatcttcctc ttcacctcct ccaccaataa caacacaaaa
+      421 ccggaaaaga tcaaacctta cactagaaaa tgggagacta gtgtgatgga caccgttcaa
+      481 gaactcaacc tcatcaccaa agattccaac aaatcttcag atcgtgtatg cgatgtgtac
+      541 catgatgttc ctgctgtgtt cttctccact ggtggataca ccggtaacgt ataccacgag
+      601 tttaacgacg ggattatccc tttgtttata acttcacagc attacaacaa aaaagttgtg
+      661 tttgtgatcg tcgagtatca tgactggtgg gagatgaagt atggagatgt cgtttcgcag
+      721 ctctcggatt atcctctggt tgatttcaat ggagatacga gaacacattg tttcaaagaa
+      781 gcaaccgttg gattacgtat tcacgacgag ttaactgtga attcttcttt ggtcattggg
+      841 aatcaaacca ttgttgactt cagaaacgtt ttggataggg gttactcgca tcgtatccaa
+      901 agcttgactc aggaggaaac agaggcgaac gtgaccgcac tcgatttcaa gaagaagcca
+      961 aaactggtga ttctttcaag aaacgggtca tcaagggcga tattaaacga gaatcttctc
+     1021 gtggagctag cagagaaaac agggttcaat gtggaggttc taagaccaca aaagacaacg
+     1081 gaaatggcca agatttatcg ttcgttgaac acgagcgatg taatgatcgg tgtacatgga
+     1141 gcagcaatga ctcatttcct tttcttgaaa ccgaaaaccg ttttcattca gatcatccca
+     1201 ttagggacgg actgggcggc agagacatat tatggagaac cggcgaagaa gctaggattg
+     1261 aagtacgttg gttacaagat tgcgccgaaa gagagctctt tgtatgaaga atatgggaaa
+     1321 gatgaccctg taatccgaga tccggatagt ctaaacgaca aaggatggga atatacgaag
+     1381 aaaatctatc tacaaggaca gaacgtgaag cttgacttga gaagattcag agaaacgtta
+     1441 actcgttcgt atgatttctc cattagaagg agatttagag aagattactt gttacataga
+     1501 gaagattaag aatcgtgtga tat
+//
+LOCUS       PX505711                1518 bp    mRNA    linear   PLN 29-DEC-2025
+DEFINITION  Arabidopsis thaliana xylan 2-O-xylosyltransferase 1 (XYXT1) mRNA,
+            complete cds.
+ACCESSION   PX505711
+VERSION     PX505711.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1518)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Deciphering the Biochemical Functions and Nucleotide Sugar Donor
+            Specificity Determinants of Dicot GT61 Glycosyltransferases Involved
+            in Xylan Substitutions
+  JOURNAL   Plant Cell Physiol (2025) In press
+REFERENCE   2  (bases 1 to 1518)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) Department of Plant Biology, University of
+            Georgia, 2502 Miller Plant Sciences, Athens, GA 30602, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1518
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+     gene            1..1518
+                     /gene="XYXT1"
+     CDS             13..1497
+                     /gene="XYXT1"
+                     /codon_start=1
+                     /product="xylan 2-O-xylosyltransferase 1"
+                     /protein_id="YCJ02040.1"
+                     /translation="MRQNLKKVAQIKVDESKKLFPYVFRVKTSCGNCAKRSKPKLIYLL
+                     IFSLISSCFVFAPQLLCFPYPSALFLIDSSIKEIENRVSESNIESPKTSQKEESISCDR
+                     TGYRSDICFMKGDIRTHSPSSSIFLYTSNDLTTDQVLQEKIKPYTRKWETSIMETIPEL
+                     KLVTKDMKLFGDKRKCEVIHEVPAVLFSTGGYTGNLYHEFNDGLIPLYITSKRFNKKVV
+                     FVIAEYHKWWEMKYGDVLSQLSDYSLIDFNKDKRTHCFKEAIVGLRIHGELTVDPSQMQ
+                     DDGTTINEFRNVLDRAYRPRINRLDRLEEQRFHARLAQRRKAKRPKLALFSRTGSRGIT
+                     NEDLMVKMAQRIGFDIEVLRPDRTTELAKIYRVLNSSKVMVGVHGAAMTHFLFMKPGSI
+                     FIQIIPLGTDWAAETYYGEPAKKLGLDYNGYKILPRESSLYEKYDKDDPILKDPNSITK
+                     KGWQFTKGIYLNDQKVRLDLHRFKKLLIDAYAKSIR"
+ORIGIN
+        1 aacaagtaaa ggatgaggca gaatctgaaa aaagtagcac agatcaaagt agacgaatct
+       61 aagaagctat ttccttatgt cttccgggtt aaaacttctt gtgggaattg cgctaagaga
+      121 tcgaagccta agcttatcta tcttcttatc ttctctctta tctcaagttg ctttgtcttt
+      181 gctcctcagc tcctctgttt cccttacccc tctgctctgt ttctcatcga ttcttcaatt
+      241 aaagagattg aaaatcgggt ttccgaaagc aatatagaat cacctaagac gtcacaaaaa
+      301 gaagagagca tatcttgtga cagaaccggc tatcgttcag acatctgttt catgaaaggc
+      361 gatatcagaa cacactctcc ttcctcctcc atctttctct acacctcgaa tgatctcacc
+      421 accgatcagg tcttgcaaga aaaaatcaaa ccatacacca gaaaatggga aactagtata
+      481 atggaaacca tccctgagct caaacttgtg acaaaagata tgaagctttt tggcgacaag
+      541 cgtaaatgcg aagtgatcca tgaagtaccg gccgtgctat tctctaccgg aggatatacc
+      601 ggaaacctct atcatgagtt caacgacggg cttattcctt tgtatataac atctaaacgt
+      661 ttcaacaaaa aggttgtctt tgtgattgct gagtatcaca agtggtggga gatgaagtat
+      721 ggagatgttc tctctcagct ctctgattac tctcttatcg acttcaacaa agacaagaga
+      781 actcactgct tcaaggaagc tattgttggt cttagaatcc atggtgagtt aaccgtcgat
+      841 ccttctcaga tgcaagatga tggaacaacc atcaatgagt tcagaaatgt acttgatcga
+      901 gcttatagac cacgaatcaa cagactggac aggctagagg agcaacgatt ccacgcaaga
+      961 ctagcacaga gaagaaaggc taagaggcca aaactagcgt tgttttcaag aaccgggtct
+     1021 cgagggataa caaacgagga cctgatggtg aaaatggctc agaggatcgg gtttgacatc
+     1081 gaggttttga gacctgacag aacaacggaa ctggcaaaga tttacagagt gttaaactca
+     1141 agcaaagtca tggttggggt acatggagca gccatgaccc attttctgtt catgaaacct
+     1201 ggaagtatct ttattcagat cattccactg ggaacagatt gggcagcaga gacatattat
+     1261 ggagaaccgg caaagaagct cggtctagac tacaatggtt ataagattct tccaagagag
+     1321 agctcattgt atgaaaaata tgataaagat gatccaattc taaaagatcc aaacagcatc
+     1381 actaagaaag gatggcaatt cacaaagggg atatacctga acgaccagaa agtgaggtta
+     1441 gatctccata gattcaagaa gcttttgatt gatgcgtatg caaaatcgat taggtgacct
+     1501 gaaatgagtt ttgagagt
+//
+LOCUS       PX505710                1432 bp    mRNA    linear   PLN 29-DEC-2025
+DEFINITION  Arabidopsis thaliana xylan 2-O-arabinofuranosyltransferase 1 (X2AT1)
+            mRNA, complete cds.
+ACCESSION   PX505710
+VERSION     PX505710.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1432)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Deciphering the Biochemical Functions and Nucleotide Sugar Donor
+            Specificity Determinants of Dicot GT61 Glycosyltransferases Involved
+            in Xylan Substitutions
+  JOURNAL   Plant Cell Physiol (2025) In press
+REFERENCE   2  (bases 1 to 1432)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) Department of Plant Biology, University of
+            Georgia, 2502 Miller Plant Sciences, Athens, GA 30602, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1432
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+     gene            1..1432
+                     /gene="X2AT1"
+     CDS             11..1423
+                     /gene="X2AT1"
+                     /codon_start=1
+                     /product="xylan 2-O-arabinofuranosyltransferase 1"
+                     /protein_id="YCJ02039.1"
+                     /translation="MTKKDILYDTVLARSFSKTDQKRLCCGAFIASLLLVLTLCTVVKP
+                     YLSPLPIVELQLSVGTGLRMLSITELTTNTTISKEEVISECNKMEKPICHCNTLGSKEF
+                     CDVSGDVRIHGKSATVLAAVTFAFSGNSTWYMRPYARKDQVPAMKRVREWTVKLVQNAS
+                     LSRCVRNHSVPAILFSLGGFSLNNFHDFTDIVIPLYTTARRFSGEVQFLVTNKNLLWIN
+                     KFKELVRKLSNYEVIYIDEEDETHCFSSVIVGLNRHRDYDKELTTDPSNSEYSMSDFRK
+                     FLRDTYSLRNSAVTTRRKPRILILSRSRSRAFVNAGEIARAARQIGFKVVVAEANTEIA
+                     SFAITVNSCDVMLGVHGAGMTNMVFLPDNAIVIQILPIGGFEWLAKMDFEYPSKGMNLR
+                     YLEYKITAEESTLVKQYGRDHEFVRDPLAVAKRGWGTFKSVYLVQQNVSVDINRFKLVL
+                     VKALELLHNQSV"
+ORIGIN
+        1 gagtcaagag atgacaaaga aggatattct ttacgataca gtacttgctc gtagttttag
+       61 caaaactgat cagaagagac tttgctgtgg agctttcatt gcctctcttc tcttggtcct
+      121 cactctttgc actgtcgtta aaccttatct cagcccttta ccaatcgtgg agttacagtt
+      181 atcagttggc actggtctaa ggatgctgag tataacagaa ttaactacca acactacaat
+      241 ctccaaagaa gaagttattt cagagtgcaa taaaatggag aaacctatct gtcactgtaa
+      301 cacactagga agcaaagagt tttgcgatgt aagcggcgac gtaagaatcc atggtaaatc
+      361 cgcaactgtt cttgcggcgg tcacgtttgc gttttccggg aattccacgt ggtatatgag
+      421 accttatgcg agaaaagacc aagttcctgc catgaaacgc gtgagagaat ggacggtgaa
+      481 attagtacaa aacgctagtt tatcacgctg cgttaggaat cacagcgttc cggcgattct
+      541 tttctctctc ggaggcttct cgttgaacaa tttccatgat ttcacggaca tcgtgattcc
+      601 tctgtacacg acggcgcgta gattcagcgg tgaagttcag ttcctcgtga cgaacaagaa
+      661 tcttttgtgg atcaacaaat ttaaggaatt agtgaggaaa ctctctaatt acgaagtgat
+      721 ttacatcgac gaagaagacg aaacgcattg tttcagcagc gtcatcgttg gtctcaatcg
+      781 ccaccgtgat tatgacaaag agctaacgac tgatccttcg aattcggagt attcaatgtc
+      841 cgatttccgg aaattcctca gagacacata ctcattgaga aactccgccg tgactacgag
+      901 gcggaagcca cggattctga ttttgtctag gagcagatcg cgagcgtttg tgaacgcggg
+      961 tgaaatcgct agagcggcga gacaaatcgg atttaaagtc gtggtggcgg aagcaaacac
+     1021 ggaaatcgcg agtttcgcaa taactgtgaa ctcctgtgac gtgatgctcg gcgttcacgg
+     1081 cgcggggatg acgaacatgg tgttcttacc tgataacgcg atcgtgattc agattcttcc
+     1141 gatcggtgga ttcgagtggc ttgcaaagat ggatttcgag tatccgtcga agggcatgaa
+     1201 tctgaggtat ttggagtaca agatcacggc ggaggagagc acactggtga agcagtacgg
+     1261 acgcgatcac gagttcgtta gagatccatt ggccgttgca aaacgcgggt ggggaacttt
+     1321 caagtcggtt tatttggtac agcagaacgt tagcgttgat ataaaccggt tcaagctggt
+     1381 tcttgtcaaa gctcttgagc tattgcataa tcagtcagtg taaataagta ac
+//
+LOCUS       PX441354                1686 bp    mRNA    linear   PLN 23-DEC-2025
+DEFINITION  Arabidopsis thaliana 4-coumarate-CoA ligase mRNA, complete cds.
+ACCESSION   PX441354
+VERSION     PX441354.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1686)
+  AUTHORS   Wei,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) School of Pharmaceutical Sciences, Zhengzhou
+            University, No. 100 Science Avenue, Zhengzhou City, Zhengzhou, Henan
+            450001, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1686
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+                     /geo_loc_name="China"
+                     /lat_lon="34.81 N 113.53 E"
+                     /collection_date="26-Sep-2024"
+                     /collected_by="Yongjun, Wei"
+     CDS             1..1686
+                     /note="4CL"
+                     /codon_start=1
+                     /product="4-coumarate-CoA ligase"
+                     /protein_id="YCB57831.1"
+                     /translation="MAPQEQAVSQVMEKQSNNNNSDVIFRSKLPDIYIPNHLSLHDYIF
+                     QNISEFATKPCLINGPTGHVYTYSDVHVISRQIAANFHKLGVNQNDVVMLLLPNCPEFV
+                     LSFLAASFRGATATAANPFFTPAEIAKQAKASNTKLIITEARYVDKIKPLQNDDGVVIV
+                     CIDDNESVPIPEGCLRFTELTQSTTEASEVIDSVEISPDDVVALPYSSGTTGLPKGVML
+                     THKGLVTSVAQQVDGENPNLYFHSDDVILCVLPMFHIYALNSIMLCGLRVGAAILIMPK
+                     FEINLLLELIQRCKVTVAPMVPPIVLAIAKSSETEKYDLSSIRVVKSGAAPLGKELEDA
+                     VNAKFPNAKLGQGYGMTEAGPVLAMSLGFAKEPFPVKSGACGTVVRNAEMKIVDPDTGD
+                     SLSRNQPGEICIRGHQIMKGYLNNPAATAETIDKDGWLHTGDIGLIDDDDELFIVDRLK
+                     ELIKYKGFQVAPAELEALLIGHPDITDVAVVAMKEEAAGEVPVAFVVKSKDSELSEDDV
+                     KQFVSKQVVFYKRINKVFFTESIPKAPSGKILRKDLRAKLANGL"
+ORIGIN
+        1 atggctccac aagaacaagc tgtttctcaa gttatggaaa aacaatctaa caacaacaac
+       61 tctgatgtta ttttcagatc taagttgcca gatatttaca ttccaaatca tttgtctctg
+      121 catgattata ttttccaaaa catctctgag ttcgctacaa aaccatgttt aattaatggt
+      181 ccaactggtc atgtttatac atattctgat gttcatgtca tctctagaca aattgctgct
+      241 aattttcata agttgggtgt taatcaaaac gatgttgtta tgttgttgtt gccaaattgt
+      301 ccagaatttg ttttgtcttt tctggctgct tcttttagag gtgctacagc tacagctgct
+      361 aatccatttt ttacaccagc tgaaattgct aaacaagcta aagcttctaa tacaaaactg
+      421 attatcaccg aagctagata tgttgataaa attaagccat tgcagaacga tgatggtgtt
+      481 gttattgttt gtattgatga taacgagtct gttccaattc cagaaggttg tttgagattt
+      541 actgaattga cacaatctac tacagaagct tctgaagtta ttgattctgt tgaaatttcc
+      601 ccagatgatg ttgttgcttt accatattct tctggtacaa caggtttacc aaaaggtgtt
+      661 atgttgactc ataaaggttt agttacatct gttgctcaac aagttgatgg tgaaaatcca
+      721 aatttatact tccattctga cgatgttatc ttgtgtgttt tgccaatgtt tcatatttac
+      781 gctttaaact ctatcatgtt gtgtggttta agagttggtg ctgctatttt aattatgcca
+      841 aaatttgaga tcaacctgtt gttagaattg attcaaagat gtaaggtcac tgttgctcca
+      901 atggttccac caattgtttt agctattgct aaatcttctg agactgaaaa atacgatttg
+      961 tcttctatta gggttgttaa atctggtgct gctccattgg gtaaagaatt ggaagatgct
+     1021 gttaatgcta aatttccaaa tgctaaactg ggtcaaggtt atggtatgac tgaagctggt
+     1081 ccagttttag ctatgtcttt aggttttgct aaagaaccat ttccagttaa atctggagct
+     1141 tgtggtactg ttgttagaaa tgctgaaatg aaaatcgttg atccagatac tggtgattct
+     1201 ttatctagaa atcaaccagg tgaaatttgt attagaggtc atcaaattat gaagggttat
+     1261 ttaaacaacc cagctgctac agctgaaaca attgataaag atggttggtt acatactggt
+     1321 gatattggtt tgattgatga tgatgatgaa ttgtttatcg tcgatagatt gaaagaattg
+     1381 atcaaataca agggtttcca agttgctcca gctgaattgg aagctttgtt aattggtcat
+     1441 ccagatatta cagatgttgc tgttgttgct atgaaagaag aagctgctgg tgaagttcca
+     1501 gttgcttttg ttgttaaatc aaaagattcc gaactgtctg aagatgatgt taaacaattt
+     1561 gtttccaagc aagttgtttt ctataagaga attaacaagg tcttcttcac agaatctatt
+     1621 ccaaaagctc catctggtaa aattttaaga aaggatttga gggctaagtt ggctaatggt
+     1681 ttataa
+//

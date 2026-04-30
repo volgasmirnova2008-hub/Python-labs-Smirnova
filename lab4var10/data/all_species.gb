@@ -1,0 +1,878 @@
+LOCUS       PX776817                1929 bp    mRNA    linear   PLN 18-MAR-2026
+DEFINITION  Prunus persica var. persica PP2C8 mRNA, complete cds.
+ACCESSION   PX776817
+VERSION     PX776817.1
+KEYWORDS    .
+SOURCE      Prunus persica var. persica
+  ORGANISM  Prunus persica var. persica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Amygdaleae; Prunus.
+REFERENCE   1  (bases 1 to 1929)
+  AUTHORS   Xu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2025) Beijing Academy of Agriculture and Forestry
+            Sciences, Institute of Forestry & Pomology, Jia 12 Ruiwangfen,
+            Xiangshan Street, Haidian, Beijing 100093, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1929
+                     /organism="Prunus persica var. persica"
+                     /mol_type="mRNA"
+                     /variety="persica"
+                     /db_xref="taxon:323852"
+     CDS             760..1809
+                     /codon_start=1
+                     /product="PP2C8"
+                     /protein_id="YDM80199.1"
+                     /translation="MKWELVDMGSLNGTLLNSQPINNPDSGSRHWGKPMELASGDVITL
+                     GTTSKVFVHISSETESQIPFGLGVASDPMALRRGGKKLPMEDVCYYQWPLPGIDQFGLF
+                     GICDGHGGAEAARSASKLLPEMVANILSDSLKRERVLSLCDASDVLKDAFFQTEAGMNH
+                     HYEGCTATLLLVWTDGKDNFFAQCANLGDSACVMNVDGKLIKMTEDHRISSYGERLRIQ
+                     ETGQPLKEGETRLCGLNLARMLGDKFLKQQDSRFSSEPYISQVVQIDQASRAFALMASD
+                     GLWDVISVKKAIQLVLQTRERYSKDGENLAEKTANVLLSEARTVRTKDNTSIIFLDFDT
+                     SRISCKGES"
+ORIGIN
+        1 gtgcgaccat ttcaaagcga ccttctcgca aactcaaagc caatctctat ctcctggagg
+       61 ggagagagag cgatgacgat gacgatgcta gagggcattg tcggtgttct tctccttatg
+      121 cttcttctga tcctcatcct catcttcgtc gcctgtaaac catggcgttt cttcttctct
+      181 tctcgttctc gcactatcaa ggatggtgag cttgagagac cccttgtttc ggatgatgcg
+      241 aatcaggtcc ggaaccaggg taatgaattt cgaagaggtt atgatctaga gggagcatgt
+      301 ttccaaaatg aagggaattt tcgctcaccc cgaacacaag gacttattta taaaccgagg
+      361 cttcccacca cagctcccaa ttcgactcaa ggtgacttga tcctagatgt gatttctgat
+      421 gctccggaag atattttagt tggtcagaca ctcaagcgtc cattggtgac acagcagtta
+      481 gtagaagatc agaagtttga tagacagatt ttagaacatg atagacttca agagtttgtg
+      541 cccaatgata ttctatatca aatctccttt agaagtgcag gaacctgcct caacctggag
+      601 gtaatttctg gtccttccca gggacttcgt tgctctgtac agtcaacaaa ttctgctagg
+      661 cttcctctga cccttggaag ggttcctcca agtgatttac tattgaagga ttcggaggtg
+      721 tcaggaaagc atgcattgat aaactggaat tcgaataaaa tgaagtggga gcttgtagac
+      781 atgggcagcc ttaatggaac acttctaaac tctcagccaa tcaataatcc tgattctgga
+      841 agtagacatt ggggtaagcc aatggagcta gcaagtggag acgtaataac tcttggaacg
+      901 acctcaaaag tatttgttca tatttcatct gaaactgaga gtcagatccc ctttgggctt
+      961 ggtgtggctt cagatcccat ggctctgcgt cgcggaggga agaagcttcc gatggaagat
+     1021 gtgtgctact atcaatggcc tcttcctggg attgatcagt ttggactatt tggtatctgt
+     1081 gatggacatg gtggagcaga ggctgccaga tctgctagca agcttcttcc tgagatggtt
+     1141 gctaacattt tatcggattc actaaaaagg gagagggttt tatcactatg tgatgcttca
+     1201 gatgttctta aggatgcttt ttttcagacc gaagcaggca tgaatcacca ttatgagggt
+     1261 tgtactgcta ctctgcttct ggtttggact gatggtaaag acaatttctt tgcacaatgt
+     1321 gcaaaccttg gggattcagc ttgtgttatg aacgttgatg ggaaactgat taagatgacg
+     1381 gaggaccata gaatttctag ttatggtgaa agactccgaa tccaggaaac aggacagcca
+     1441 ttgaaagagg gggaaacacg tctatgtggt ttgaaccttg ctcggatgct tggagacaaa
+     1501 tttcttaaac agcaggattc gcgcttcagt tcagaaccat atattagcca agtggtacaa
+     1561 attgatcaag cgagcagggc ctttgcgcta atggccagcg acggcttatg ggacgtaatt
+     1621 agcgtgaaga aggccattca gctagttctt cagacgagag agagatactc gaaggatggg
+     1681 gagaatttgg cggagaagac tgctaatgtt ttgttgagtg aggctagaac agtgcgaaca
+     1741 aaggataata cctctataat tttcttagat tttgatactt ctagaatctc atgtaaaggt
+     1801 gaatcttgat atgagttaaa aaagttatag tttcacagca ataattttct cttctttttc
+     1861 gctcgactgt tgtccatctt tttcgttttc cccttgcaag ttatatacaa agtaagtagt
+     1921 tgattccaa
+//
+LOCUS       PX776816                3396 bp    mRNA    linear   PLN 18-MAR-2026
+DEFINITION  Prunus persica var. persica CAMTA3 mRNA, complete cds.
+ACCESSION   PX776816
+VERSION     PX776816.1
+KEYWORDS    .
+SOURCE      Prunus persica var. persica
+  ORGANISM  Prunus persica var. persica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Amygdaleae; Prunus.
+REFERENCE   1  (bases 1 to 3396)
+  AUTHORS   Xu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2025) Beijing Academy of Agriculture and Forestry
+            Sciences, Institute of Forestry & Pomology, Jia 12 Ruiwangfen,
+            Xiangshan Street, Haidian, Beijing 100093, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3396
+                     /organism="Prunus persica var. persica"
+                     /mol_type="mRNA"
+                     /variety="persica"
+                     /db_xref="taxon:323852"
+     CDS             1..3396
+                     /note="PpCAMTA3"
+                     /codon_start=1
+                     /product="CAMTA3"
+                     /protein_id="YDM80198.1"
+                     /translation="MYEIQVGSGCGISVTTTRIEFMADTKRYGLGNQLDIAQILLEAKH
+                     RWLRPAEICEILRNYKKFHISSEPASMPPGGSLFLFDRKVLRYFRKDGHNWRKKKDGKT
+                     VKEAHERLKAGSVDVLHCYYAHGEENENFQRRSYWMLEEDLQHIVLVHYREVKGNRTNF
+                     NHTKGTEEAVPYSHETEEIALNSEMENSVSSSFNPNTFQMRSQATDTTSLSSAQASEFE
+                     DAESAYDHQASSRLQPFLELLQPKAEKINAGFSDAFYPMSFSNNYQEKLSAIPGVNFGS
+                     LTQAYKREDGNDAGVNYEPTKNLNSSLWEAALENSATGFQSLSFQPSFSATHSDTMGII
+                     SKQENGMLGHLFTDSFEKKQMCESKPRVQQGWQTLEENSSCSSSWLMDRNLHSNTVDDV
+                     SSFHEGLNAANLLNSLAPCHMNSDKTNDYSIPNDLQIQPSTTEQEYYLKSISKRNETIE
+                     GKANHASAIKPLLDGPFTEGLKKLDSFNRWMSRELGDVDDTQTQSNSETYWDTVESENG
+                     VDESSVPLQVRLDSYMLGPSLSQDQLFSIIDFSPNWAYENSEIKVLITGRFLKSQQAEA
+                     CKWSCMFGEVEVRAEVIADGVLRCYTPVHKAGRVPFYVTCSNRLACSEVREFEYRVGQI
+                     PDYDAKDDNSGCTNDILSMRFGKLLSLSSTSPTFDPNSLAENSVLINKIDSLLKNDNGE
+                     WDRMLQLTSDEDFSSERVEEQLLHQLLKEKLHVWLLQKLAVGGKGPSVLDEDGQGVLHF
+                     GAALGYDWVLLPTITAGVSVNFRDVNGWTALHWAASCGRERTVASLISLGAAPGALTDP
+                     STKYPTGRTPADLASAEGHKGIAGYLAESALSAHLSSLNLDIKEGNNAGISGANAVQTV
+                     SERIATPIGNGDLTDGLSLRDTLTAVCNATQAAARIHQVFRVKSFQRKQLKEYGGNEFG
+                     ISDEHALSLIAVKSHKPGKRDEHVDAAAIRIQNKFRSWKGRKDYLIIRQRIVKIQAHVR
+                     GHQVRKNYRKIVWSVGIVEKIILRWRRKGSGLRGFKSEPLIEGPSIQVSSSKDDDYDLL
+                     KEGRKQNEERLQKALARVKSMVQYPEARDQYRRLLNVVTEIKETKVVCDSAANSSEGRA
+                     DMDDDLIDFAELLDEDIFMPTAGP"
+ORIGIN
+        1 atgtatgaga tacaagttgg ctctggttgt gggatttcag tgactacaac acgcatcgag
+       61 ttcatggcgg ataccaagcg ctatggtctt ggcaatcagt tggatattgc acagatactc
+      121 ttagaagcaa aacatcgctg gctacgcccg gctgaaatat gtgaaattct tcgaaattat
+      181 aaaaaatttc acatttcttc agagcctgca agtatgccac cgggtggatc actttttctt
+      241 tttgatcgga aggtgcttag atatttcagg aaggatggcc ataactggag gaaaaaaaaa
+      301 gatggaaaga cagtgaagga agcccatgag aggcttaagg ccggaagtgt tgatgtgttg
+      361 cactgctact atgcccatgg agaagaaaat gaaaatttcc aaagacgcag ttattggatg
+      421 cttgaagagg atctgcaaca catagttctc gtccactacc gggaagttaa gggaaatagg
+      481 acaaacttta accatactaa gggaactgaa gaagctgttc cttattccca tgaaactgaa
+      541 gaaattgcac tcaattctga gatggaaaat tctgtttctt ctagtttcaa tccaaatact
+      601 ttccaaatgc gttcccaagc tacagataca acaagcttga gtagtgctca ggcatcagaa
+      661 tttgaagatg ctgaatcagc atatgatcac caagcaagtt cccggttaca accttttctc
+      721 gaattactac agcctaaggc tgagaagatc aatgctggat tctctgatgc attctatcca
+      781 atgtcgtttt caaataatta tcaagaaaaa ttgtcagcca ttcctggggt gaattttggc
+      841 tcacttactc aagcatacaa gagggaagat ggtaatgatg ctggtgttaa ctatgagccc
+      901 accaaaaatc ttaactcttc gctatgggag gctgccctgg aaaacagtgc tactggattt
+      961 cagtctttgt cttttcagcc atcattttca gcaacacatt ctgatacgat ggggattatc
+     1021 tctaagcaag aaaatgggat gcttgggcac cttttcacag acagttttga gaaaaagcag
+     1081 atgtgtgaga gtaaaccaag ggtccaacaa ggttggcaga ctttggaaga aaactcatca
+     1141 tgttcatcca gctggcttat ggatcggaac ttgcattcaa atacagtaga tgatgtctcc
+     1201 agcttccatg aaggactcaa tgctgctaat ttactcaatt ctctagcgcc ttgccatatg
+     1261 aattctgata agacaaatga ttattctata ccaaatgacc ttcaaataca gccttcaacc
+     1321 actgagcaag aatattatct aaagtccatt tcaaagagaa atgagaccat agagggaaaa
+     1381 gccaatcacg cttctgctat aaagcctttg ttagatggcc cattcactga aggcttgaag
+     1441 aagcttgaca gtttcaaccg atggatgagt agagaacttg gagatgtgga tgacacacaa
+     1501 acacagtcca attctgagac ctactgggat actgttgaaa gtgagaatgg ggttgatgag
+     1561 tccagtgttc ccctgcaagt acgcttggat agctatatgc tggggccttc tctttcccaa
+     1621 gaccagctct ttagcattat tgatttttca ccaaactggg catatgaaaa ctctgaaatc
+     1681 aaggttctga tcacaggaag attcttgaag agtcaacaag cagaagcttg taaatggtca
+     1741 tgtatgtttg gggaagttga agttcgtgct gaggttatag cagatggtgt tcttcgttgt
+     1801 tatacacccg tccataaggc tgggagggtt ccattctatg tgacatgttc caataggcta
+     1861 gcgtgtagtg aagtgaggga atttgaatac cgagttggcc aaattccgga ttatgatgct
+     1921 aaagatgata acagtggctg cacaaacgat atacttagta tgcggtttgg aaaattgttg
+     1981 tctctaagct ctacgtctcc aacttttgat cccaacagtc tggcagagaa ttcggtgttg
+     2041 atcaataaaa ttgattcatt gctgaaaaat gacaatggtg agtgggacag gatgctacag
+     2101 cttacctcag atgaagactt ttcctcggag agagtagagg agcagttgct tcatcagcta
+     2161 cttaaagaga agttgcatgt gtggctctta cagaagctgg ctgttggtgg gaaaggccct
+     2221 agtgtactag acgaggatgg ccaaggtgtg ttacattttg gagcagctct tggctatgat
+     2281 tgggtcttgc tgcccacaat aactgccgga gtcagtgtca attttcgtga tgtgaatgga
+     2341 tggacggctc ttcattgggc agcttcttgt ggcagagaac gcacagttgc ttccctcatc
+     2401 tctcttggtg cagctcccgg agcattaaca gatccaagta ccaaataccc tactggcaga
+     2461 acacctgcag acctagcttc tgcagagggc cacaaaggaa ttgctggtta tcttgcagaa
+     2521 tctgctttga gcgcccacct ttcatctctt aatttggaca tcaaggaagg caataatgct
+     2581 gggatttcag gagccaatgc agtacaaaca gtttcagaac gaattgcaac tcctatcggg
+     2641 aatggggatt taacggatgg gctttccctg agggatactt taactgctgt ctgtaatgcc
+     2701 acccaagctg ctgctcgtat tcatcaagtg ttcagggtaa aatcttttca gaggaagcag
+     2761 ttgaaagaat atggtggcaa tgaatttgga atttcagatg aacatgcact gtcactcatt
+     2821 gcagtgaagt cacataagcc agggaaacgt gatgagcatg ttgatgctgc tgcaatacga
+     2881 attcaaaata agttccgtag ttggaagggt agaaaagact atttgataat ccgacaacgt
+     2941 attgtcaaaa ttcaggctca tgtaagaggc caccaggtga ggaaaaacta cagaaagata
+     3001 gtgtggtccg taggaattgt agagaagatt attttgcgtt ggagacgaaa aggaagtgga
+     3061 ttgcgtgggt tcaagtcaga gccacttatt gagggcccca gcatacaagt ttcatcctcg
+     3121 aaggatgatg attatgattt actgaaagaa ggaaggaagc aaaatgagga aaggttgcaa
+     3181 aaggcccttg ctagggtgaa gtccatggtt caatatcctg aagcaagaga tcaataccgt
+     3241 cggctactta atgttgttac tgagataaag gaaaccaagg tggtatgtga tagtgctgcg
+     3301 aatagttcag aagggagagc tgatatggat gatgatctca tagattttgc agaattgttg
+     3361 gatgaagaca ttttcatgcc tacagcaggt ccatag
+//
+LOCUS       PX776815                3123 bp    mRNA    linear   PLN 18-MAR-2026
+DEFINITION  Prunus persica var. persica ACA10 mRNA, complete cds.
+ACCESSION   PX776815
+VERSION     PX776815.1
+KEYWORDS    .
+SOURCE      Prunus persica var. persica
+  ORGANISM  Prunus persica var. persica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Amygdaleae; Prunus.
+REFERENCE   1  (bases 1 to 3123)
+  AUTHORS   Xu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2025) Beijing Academy of Agriculture and Forestry
+            Sciences, Institute of Forestry & Pomology, Jia 12 Ruiwangfen,
+            Xiangshan Street, Haidian, Beijing 100093, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3123
+                     /organism="Prunus persica var. persica"
+                     /mol_type="mRNA"
+                     /variety="persica"
+                     /db_xref="taxon:323852"
+     CDS             1..3123
+                     /codon_start=1
+                     /product="ACA10"
+                     /protein_id="YDM80197.1"
+                     /translation="MERYLKDFEVESKNPSEETIRRWRKAVALVKNRRRRFRFVADLAK
+                     RSEAERKKRQIQEKIRVALYVQKAALQFIDAGAGDRSNEKPRQDEYKLSEDARTSGFSI
+                     HPDELASITRGHDIKALKMHGGIHGILRKVSVSLDEGVKDSNIPIRQNVYGLNRYTEKP
+                     PRTFFVFVWEALQDLTLIILMVCAVVSIGVGIATEGWPKGMYDGVGILISIVLVVMVTA
+                     ISDYRQSLQFKDLDREKKKIFVQVTRDKKRQKVSIYDLVVGDIVHLSIGDQVPADGIFI
+                     SGYSLLIDESSLSGESEPVNVYEEKPFLLSGTKVQDGSGIMLVTTVGMRTEWGKLMETL
+                     SEGGEDETPLQVKLNGVATIIGKIGLSFAVLTFLVLAVRFLVEKILNNEITDWSSTDAV
+                     ILLNYFAIAVTIIVVAVPEGLPLAVTLSLAFAMKKLMNDRALVRHLSACETMGSASCIC
+                     TDKTGTLTTNHMVVNKIWICEKPLDVKGNESKEILSSEISGASSILLQVIFQNTSSEVI
+                     KEDGKTSILGTPTESALLEFGLLLGGDFDAVRREVNILKVEPFNSVRKKMSVLVAHPHG
+                     GKRAFCKGASEIVLGMCNKFIDFNGESVILSREQVKNITDVINSFASEALRTLCLAFKN
+                     IDDSSIENDIPDDGYTLIAVVGIKDPVRPGVKDAVQTCLAAGITVRMVTGDNINTAKAI
+                     AKECGILTEDGLAIEGQEFRNMSLEQKKAVIPRIQVMARSLPLDKHILVKTLRDEFGEV
+                     VAVTGDGTNDAPALHEADIGLAMGIAGTEVAKESADVIILDDNFKTIVNVARWGRSVYI
+                     NIQKFVQFQLTVNVVALIINFVSACVSGSAPLTAVQLLWVNMIMDTLGALALATEPPND
+                     GLMKRPPVGRGTSFITKAMWRNIIGQSIYQLIVLGVLNFYGKHLLGLSGSDATEVLDTV
+                     IFNAFVFCQVFNEINSRDIEKINIFVGMFDSWVFLGVMVCTVAFQVIIVEFLGDFASTV
+                     PLSWQLWLLCILLGSVSMLVAVVLKFIPVESTIKHHDGYEPLPSGPPDSIV"
+ORIGIN
+        1 atggagaggt acttgaagga cttcgaggtg gagagcaaga atccttcgga ggaaactatt
+       61 cggagatgga gaaaagccgt cgcgctcgtc aagaaccgtc gcaggaggtt ccgcttcgtg
+      121 gccgatctcg ctaagcggtc cgaggccgag aggaagaagc gtcaaatcca ggaaaagatt
+      181 cgagttgctc tttacgttca gaaagcagca ctgcagttta ttgatgctgg tgctggtgat
+      241 cgatccaatg aaaagccaag acaggatgaa tacaagctgt ctgaagatgc cagaacctca
+      301 ggtttcagca ttcacccaga tgaacttgca tctatcacgc gtggccatga tattaaggcc
+      361 ttgaaaatgc atggtggaat tcatgggatt ttaaggaaag tctctgtctc gctagatgaa
+      421 ggtgtcaagg atagtaacat accaatcagg caaaatgttt atggcttaaa ccgctatacg
+      481 gagaaacctc cccgaacatt ttttgtgttt gtatgggaag ccctacaaga cttaacatta
+      541 attatcctta tggtatgcgc tgtggtttca ataggagttg gaattgccac tgaggggtgg
+      601 ccaaaaggca tgtacgatgg tgtgggaatt ttaattagta tagttttggt ggttatggtt
+      661 actgccatta gtgactacag acagtcgttg caattcaagg atttggacag ggagaagaaa
+      721 aagatttttg ttcaggtcac tagggataaa aaaagacaaa aagtttccat ttatgacttg
+      781 gttgttggag atattgtcca tttgtcaatt ggggaccaag ttccagctga tgggattttc
+      841 atatcaggat actctttgct gattgatgag tcaagcttgt caggtgagag tgagccggtc
+      901 aatgtatatg aagagaagcc ttttcttctt tcaggaacta aagtgcagga tgggtcaggt
+      961 ataatgctgg tgacaacagt tggtatgaga actgaatggg gaaagttgat ggaaactctg
+     1021 agtgaaggag gagaagatga gaccccactg caggtaaagc tgaatggtgt tgctacaatt
+     1081 attggtaaaa ttggtctgag ttttgctgtg ttgacatttt tggtattggc agtaagattt
+     1141 ttggtggaaa aaatacttaa caacgagatc actgattggt cttcaactga tgcagtaatc
+     1201 ctattgaact actttgctat tgcggtaact ataattgttg ttgcagttcc cgaaggatta
+     1261 ccattggcag tgacgctgag ccttgctttt gctatgaaaa aattaatgaa tgatagggca
+     1321 ctcgtaaggc atctctcagc atgtgagaca atgggttctg ctagttgcat ttgcacagat
+     1381 aaaacaggga cattaaccac aaaccacatg gtagttaaca agatatggat atgtgaaaaa
+     1441 cctttagatg taaaaggtaa cgagagtaaa gaaatattga gttcagaaat atctggagca
+     1501 tcaagcatcc ttttacaggt tatattccaa aatacaagct ctgaggttat taaggaagat
+     1561 ggaaagacct ccattttggg gacaccaaca gagtcagcat tattagaatt tggtttactt
+     1621 ttgggtggtg attttgatgc cgtgcgcaga gaggttaata ttcttaaggt tgaacctttc
+     1681 aactctgtga ggaagaaaat gtctgtgctt gtagctcatc ctcatggtgg gaaacgagcc
+     1741 ttttgcaaag gtgcatcaga aatagtactg ggaatgtgta acaaatttat tgactttaat
+     1801 ggagaatctg ttattctctc ccgagaacag gtaaagaata tcacggatgt cattaattct
+     1861 tttgcttctg aagccttgag aactctctgc ttggctttca aaaatataga tgactcttcc
+     1921 atagaaaatg acatcccaga tgatggctat acattgatag cagttgtcgg tatcaaggat
+     1981 cctgtgcgcc ctggggtcaa ggatgcagtt caaacttgtt tagctgctgg aataactgta
+     2041 cgaatggtca ctggtgacaa tataaatacc gctaaagcca tagctaaaga atgcggcata
+     2101 ctcacagaag atggtttagc catagaagga caggagtttc gtaacatgtc tcttgagcag
+     2161 aagaaagctg ttataccgag gattcaggtg atggctcggt ctttaccgtt ggataagcac
+     2221 atcttggtaa aaactctgag agatgaattt ggtgaggtag ttgcagtgac tggcgatggg
+     2281 accaacgacg ctcctgcttt gcacgaggca gacattggac ttgctatggg catagcagga
+     2341 acagaggttg ccaaggaaag tgctgatgtc atcatattgg atgacaattt taagactata
+     2401 gtaaatgtgg ccagatgggg acgttcagtg tacataaaca ttcaaaagtt tgtgcagttc
+     2461 cagttgacag ttaacgttgt tgctctaata atcaattttg tttctgcatg tgtctcagga
+     2521 tctgctcccc ttacggctgt gcaattgctt tgggtcaaca tgattatgga cactcttggg
+     2581 gcattggcac tggcaacaga gcctccaaat gatggactta tgaaaaggcc ccctgttggg
+     2641 aggggtacaa gcttcataac caaggccatg tggaggaata taattggcca gagtatctat
+     2701 caactgattg tccttggagt tctcaatttc tatgggaaac atctacttgg actttctggc
+     2761 tcagatgcaa ctgaagttct agacactgtg atattcaacg catttgtgtt ttgccaggtg
+     2821 tttaatgaga taaacagccg tgacatagag aagataaaca tattcgtggg catgtttgat
+     2881 agctgggtat ttctaggcgt catggtttgc acagtggcct tccaagttat tatagtagag
+     2941 ttcttgggag attttgctag cactgttccg ctaagctggc aactatggtt actctgcatt
+     3001 ttacttggat cagttagcat gcttgttgca gttgtgctca agttcatacc ggtcgaaagt
+     3061 acaattaagc accatgatgg atatgaaccg cttccttctg gtcctcccga cagcatagtt
+     3121 tga
+//
+LOCUS       PX776814                3407 bp    mRNA    linear   PLN 18-MAR-2026
+DEFINITION  Prunus persica var. persica ACA14 mRNA, complete cds.
+ACCESSION   PX776814
+VERSION     PX776814.1
+KEYWORDS    .
+SOURCE      Prunus persica var. persica
+  ORGANISM  Prunus persica var. persica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Amygdaleae; Prunus.
+REFERENCE   1  (bases 1 to 3407)
+  AUTHORS   Xu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2025) Beijing Academy of Agriculture and Forestry
+            Sciences, Institute of Forestry & Pomology, Jia 12 Ruiwangfen,
+            Xiangshan Street, Haidian, Beijing 100093, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3407
+                     /organism="Prunus persica var. persica"
+                     /mol_type="mRNA"
+                     /variety="persica"
+                     /db_xref="taxon:323852"
+     CDS             27..3407
+                     /note="PpACA14"
+                     /codon_start=1
+                     /product="ACA14"
+                     /protein_id="YDM80196.1"
+                     /translation="MAYLALRVVRVMLELPKEIISRASNYEGDDEIVHYSFVPNIEDDE
+                     DAGLKEMAKEKDSATALSEHGGVFTAGLAKSDYTKSHYDYGKFLHDITTITFTRAKKRW
+                     RMAFAAIYAVRAMLSLPKEIVAKRNNYKHHSEIFHSFSHTAPDIELSTALDLKPRTKSQ
+                     TDAYGFVPNPDFDHAGLTTMVKERDLGAVNESGGVIGIAASLRTNPENGIYGNDLHVNK
+                     RREVYGSNTYHKQPPKGLLYFVMDALKDTTILILCVCAALSLGFGIKEHGAKEGWYEGG
+                     SIFVAVFIVIVVSALSNFRQELQFDKLSKISSNIKIEVLRDRQRQQVSIFDIVVGDVVF
+                     LKLGDQIPADGLFLDGRSLQVDESSMTGESDHVEVDSAKNPFLLSGAKVVDGYAQMLVT
+                     SVGMNTAWGEMMSSISQDTNERTPLQARLDKLTSTIGKVGLIVAFLVLVVLLIRYFTGN
+                     TKDEYGNKEYSGSNKNIDNVLNGVVRIVSAAVTIVVVAIPEGLPLAVTLTLAYSMKRMM
+                     KDQAMVRKLQACETMGSATVICTDKTGTLTKNEMEVTKFWLGQEPIEKHNSIKQNVSEL
+                     FHQGVGLNTTGSVYIPLSGSKPNISGSPTEKAILYWAVSDLGMDMEKMKLSYDILHVET
+                     FNSDKKRSGVLIKKKEDKSIHVHWKGAAEMIVAMCSSYYETDGAIKSLDEESRSNIEKI
+                     IQGMAASSLRCIAFAHTQILEEEIEYSNDEKTHPRLKEDELILLGVVGLKDPCRPGVLN
+                     AVKICRSAGVQIKMITGDNVFTAKAIATECGILQIGDEAIYGEQVIEGVEFRNYTHQER
+                     MEKVDNILVMARSSPFDKLLMVQCLKQKNHVVAVTGDGTNDAPALKEADIGLSMGIQGT
+                     EVAKESSDIIILDDNFNSVATVLRWGRCVYNNIQKFIQFQLTVNVAALVINFIAAVSAG
+                     DVPLTAVQLLWVNLIMDTLGALALATERPTNELMQKQPVGRTAPLITNIMWRNLLFQAL
+                     YQIAVLLILQFRGESIFNVTGGVNDTLIFNTFVLCQVFNEFNSRSMEKQNVFKGIHRNR
+                     LFIGIVGVTILLQVVMVEFLKKFADTEKLNLFQWVTCILIAAVSWPIGWIVKCIPVPEE
+                     PVFEIIRRSIVTFKRNMRA"
+ORIGIN
+        1 acctcagagc aaagaggaga tggcgcatgg cgtatctggc tttacgtgtt gttcgggtca
+       61 tgctagagct tcctaaagag attatatcca gggcaagcaa ctatgaaggc gacgatgaga
+      121 ttgttcacta tagttttgtg cccaacattg aggatgatga agatgcaggc ctcaaagaaa
+      181 tggccaagga aaaagactcg gctactgctc taagtgagca tggaggagta tttacagcag
+      241 gccttgcaaa atctgattat accaaaagcc attatgatta tggaaaattt ctccatgaca
+      301 tcaccacaat caccttcacc agagccaaga agagatggcg catggccttt gcagccatat
+      361 acgctgtcag ggcaatgctt tcgcttccca aagagattgt agccaagaga aacaactaca
+      421 aacaccactc cgagatcttc cactcttttt ctcacactgc accggacatc gaactaagca
+      481 ctgccttgga cttgaaacca agaacaaaat ctcaaactga tgcctacggt tttgtcccca
+      541 accctgactt tgaccatgca gggctcacaa caatggttaa ggaaagggac ttgggtgctg
+      601 taaacgagtc tggaggtgtt ataggcattg ctgcttctct caggacaaac cctgaaaacg
+      661 gaatctatgg aaacgattta catgtcaaca agcggcgcga agtttatgga tcaaacacct
+      721 accacaagca gcctccaaaa gggttgctct attttgtgat ggacgcttta aaagacacaa
+      781 ccattctgat tctatgtgtc tgcgcagcac tttctcttgg atttggaatc aaagagcatg
+      841 gggcgaagga aggctggtac gagggaggga gtatctttgt tgctgtattt attgtcattg
+      901 ttgtctcagc tctgagtaac tttagacaag aattgcaatt cgacaagttg tcgaaaataa
+      961 gtagcaacat caaaattgag gtacttagag acagacagag acaacaagtc tccattttcg
+     1021 atattgtagt tggagatgtt gtgtttctga agttgggaga tcaaatacct gcagacggat
+     1081 tgttcctaga cggccgttcc ttacaagtgg acgaatcgag catgacagga gagagtgacc
+     1141 atgtagaagt tgattctgcc aagaacccct tcctgttgtc tggtgcaaag gtggtagacg
+     1201 gctatgccca aatgctcgtc acatcagttg ggatgaacac ggcgtggggc gaaatgatga
+     1261 gctcaatatc gcaggacaca aatgaacgaa caccattaca agcaaggctt gacaaactaa
+     1321 cctctactat tggaaaagta ggccttatag ttgctttcct agttctggta gtcttgttga
+     1381 ttcgttattt caccggtaac acaaaagatg agtacggaaa taaggagtat agtggtagca
+     1441 acaaaaacat agataatgtg ttgaacggag tggttcgaat tgtttctgct gcagtcacta
+     1501 tagtggtggt ggcaatccca gagggtttgc cgttggcggt cacactaacg ctagcttact
+     1561 caatgaaaag aatgatgaaa gatcaggcta tggtcagaaa actacaagct tgtgagacaa
+     1621 tgggatcagc aaccgttatt tgtacagaca aaacaggtac tttgacaaaa aatgaaatgg
+     1681 aagtcactaa gttttggctt ggccaagaac ctattgaaaa acataattca atcaaacaaa
+     1741 atgtctctga attattccat caaggagttg gtttgaacac aactgggagt gtttacatac
+     1801 ctctctcagg atccaaacct aacatctctg gcagtccaac agaaaaagct attctgtatt
+     1861 gggctgtatc agatttgggc atggacatgg aaaaaatgaa gcttagttat gatattcttc
+     1921 atgttgaaac atttaattca gataagaaac gaagcggagt tcttataaag aaaaaggaag
+     1981 ataaatccat ccatgtgcac tggaaaggag ctgctgagat gatagttgcc atgtgctcaa
+     2041 gttattatga aaccgacgga gctataaagt cgttggatga agaaagtagg tctaacattg
+     2101 agaaaataat ccaaggcatg gcagctagca gcctccggtg cattgctttt gctcatacac
+     2161 aaattttaga ggaagaaatt gaatatagca atgatgagaa gactcaccca aggctcaaag
+     2221 aagatgaact gatcttgcta ggagtagttg gtctcaaaga tccatgtcga ccaggggtcc
+     2281 tcaatgccgt gaagatctgc aggtctgcag gtgtgcaaat caaaatgata acgggagaca
+     2341 atgttttcac agcaaaagcc atagctacag aatgcggaat actgcagatt ggggacgaag
+     2401 caatttatgg tgaacaagtg atagaaggag tcgagtttcg aaactataca caccaagaga
+     2461 gaatggaaaa ggttgataac atcctcgtga tggccagatc ctccccgttc gacaagcttc
+     2521 tgatggtgca atgcttgaag cagaaaaatc atgtggttgc agtcacagga gacggcacca
+     2581 acgacgcccc tgcattgaaa gaagctgaca tcggactctc catggggatc cagggcaccg
+     2641 aggtggcgaa agagagctcg gacatcatca tcttggacga caacttcaac tctgtggcca
+     2701 cagttttgag gtggggcaga tgcgtttaca acaacataca gaaattcata caatttcagc
+     2761 ttactgtcaa tgtggcagct ctggttatca acttcattgc agcagtttca gctggagatg
+     2821 ttcccttaac agcagttcaa ctattatggg tgaatctcat catggacact cttggtgctc
+     2881 tggctcttgc aaccgagcgg cctaccaatg agctcatgca gaagcagcct gttggccgaa
+     2941 ccgcgccgct cataaccaac attatgtgga gaaacctttt atttcaagct ctgtaccaaa
+     3001 tagctgtcct cttgatcttg cagttccggg gagagtctat cttcaatgtc actggtgggg
+     3061 tgaacgatac tttgattttc aatacttttg tgctctgtca agttttcaac gagttcaatt
+     3121 cgaggagcat ggagaagcag aatgtgttca aaggcattca caggaacaga ctgtttattg
+     3181 ggattgtggg ggtaactatt cttcttcaag ttgtgatggt ggagttcctc aaaaagtttg
+     3241 cagatacaga gaagttgaac ctgtttcaat gggtgacttg tattttaatt gcagctgtgt
+     3301 catggccaat tggttggatt gtgaagtgta tacctgtccc ggaagaacca gtcttcgaaa
+     3361 ttatcaggag gtcaatagtc acattcaaaa gaaatatgcg agcatag
+//
+LOCUS       PX776813                3051 bp    mRNA    linear   PLN 18-MAR-2026
+DEFINITION  Prunus persica var. persica ACA9 mRNA, complete cds.
+ACCESSION   PX776813
+VERSION     PX776813.1
+KEYWORDS    .
+SOURCE      Prunus persica var. persica
+  ORGANISM  Prunus persica var. persica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Amygdaleae; Prunus.
+REFERENCE   1  (bases 1 to 3051)
+  AUTHORS   Xu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2025) Beijing Academy of Agriculture and Forestry
+            Sciences, Institute of Forestry & Pomology, Jia 12 Ruiwangfen,
+            Xiangshan Street, Haidian, Beijing 100097, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3051
+                     /organism="Prunus persica var. persica"
+                     /mol_type="mRNA"
+                     /variety="persica"
+                     /db_xref="taxon:323852"
+     CDS             1..3051
+                     /note="PpACA9"
+                     /codon_start=1
+                     /product="ACA9"
+                     /protein_id="YDM80195.1"
+                     /translation="MMESYLQEFGEVKAKHSSEETLQKWRNLCSVVKNPKRRFRFTANI
+                     TKRSEAAAMRRTNQEKLRIAVLVSKAAFQFIQGVQPSDYVVPREVTDAGFQICADELGS
+                     IVEGHDVKKLTFHGGVAGIAEKLSTSVKDGLNTESDLQTRRQEIYGINKFTESEQRGFW
+                     IFVWEALQDMTLMILGVCAFVSLIVGIATEGWPIGAHDGLGIVASILLVVLVTATSDYR
+                     QSLQFKDLDKEKKKIDIQVTRNGYRQKMSIYDLLPGDIVHLSIGDQVPADGLFVSGFSV
+                     LIDESSLTGESEPIMVTAENPFLLSGTKVQDGSGKMMVTTVGMRTQWGKLMATLSEGGD
+                     DETPLQVKLNGVATIIGKIGLFFAVVTFAVMVQGLFSHKLSEGTHWSWTGDDARQMLEY
+                     FAIAVTIVVVAVPEGLPLAVTLSLAFAMKKMMNDKALVRHLAACETMGSATNICSDKTG
+                     TLTTNRMTVVKSCICMNVKEVSKPSEASSLFSDLPESAKKLLLQSIFNNTGGDVVVNKE
+                     GKHEILGTPTDTALLEFGLSLGGNFQTERQASKLVKVEPFNSTKKRMGVILELPEGGLR
+                     AHTKGASEIVLASCEKVINTNGEIVPLDEASINHLKVTIEQFACEALRTLCLAYVELEN
+                     GFSPQNPIPVSGYTCIGIVGIKDPVRPGVKESVAICRSAGIVVRMVTGDNINTAKAIAR
+                     ECGILTDDGIAIEGPEFREKNQEELLSLIPKIQVMARSSPLDKHTLVKHLRTTFDEVVA
+                     VTGDGTNDAPALHEADIGLAMGIAGTEVAKESADVLILDDNFSTIVTVAKWGRSVYINI
+                     QKFVQFQLTVNIVALIVNFSSACLTGSAPLTAVQLLWVNMIMDTLGALALATEPPNNEL
+                     MKRPPVGKRQNFITNVMWRNILGQSLYQFTVIWLLQAKGTAMFGLDGPDSHVILNTLIF
+                     NTFVFCQVFNEISSREMEEIDVFKGILDNYVFVGVLSSTVLFQIIIVEFLGKFASTAPL
+                     TLAQWFITVFIGFLGMPIAAGIKKIPV"
+ORIGIN
+        1 atgatggaga gttatttgca agagttcggg gaagtgaagg caaagcattc gtctgaagaa
+       61 acgttacaga aatggaggaa cctttgcagc gttgtcaaga acccgaaacg aaggtttcgc
+      121 tttactgcca acattaccaa gcgcagcgag gctgctgcta tgcgccgtac caatcaggag
+      181 aaattgagga ttgctgtttt ggtttctaaa gctgcatttc aatttattca aggtgtgcaa
+      241 ccaagtgact acgttgtacc tcgggaagtt acagacgcag gttttcagat ttgtgctgat
+      301 gaattgggat ccattgttga aggccatgat gtaaagaagc tgacatttca tggtggggta
+      361 gctggtattg cagaaaaact ctccacgtca gtaaaagatg ggcttaatac cgaatccgat
+      421 ttgcagactc gcagacaaga gatatatgga attaacaaat ttacagagag tgaacaacgg
+      481 ggcttttgga tatttgtttg ggaagccctt caggatatga ctcttatgat cctcggagta
+      541 tgtgctttcg tgtctttgat agttgggata gcaacggaag gatggcctat tggtgcccat
+      601 gatggccttg gaattgttgc aagtatcttg ttggttgtgc ttgtcacagc aacaagtgat
+      661 tatcgccaat cgttacagtt caaggacttg gacaaggaga aaaagaagat tgacattcaa
+      721 gttacaagaa atggatacag gcagaaaatg tccatttatg atttactacc tggtgatatt
+      781 gtgcatcttt ctattggtga ccaagtgcct gcagatgggc tatttgtttc agggttttct
+      841 gtgttaattg atgaatcaag tttaactggt gagagtgagc ctataatggt aactgctgaa
+      901 aacccctttc ttctttctgg tactaaggtc caagatggat ctggcaagat gatggttacc
+      961 acagttggga tgagaaccca atggggtaag ttgatggcaa ctctgagtga aggtggagat
+     1021 gatgagacac cattgcaggt gaagttgaat ggagtggcaa ccattattgg gaagataggc
+     1081 cttttctttg ccgttgtgac ttttgcagta atggtgcaag gattatttag tcataaacta
+     1141 tctgagggga cacactggag ctggactgga gatgatgcaa ggcaaatgtt ggaatacttt
+     1201 gctattgcag ttacaattgt tgttgttgct gtcccagaag ggctgccact ggctgtgaca
+     1261 ttgagccttg catttgccat gaagaagatg atgaacgata aagcacttgt tcgtcatctg
+     1321 gcggcttgtg agactatggg atcagccaca aatatttgca gtgacaaaac tgggacactc
+     1381 acaaccaacc gcatgactgt tgtaaaatca tgcatttgca tgaatgtcaa ggaggtgagc
+     1441 aaacccagtg aagcatctag cttgttctct gatctgccag agtctgctaa gaaacttttg
+     1501 ctgcaatcaa tatttaataa cactggcgga gacgttgtgg ttaacaaaga gggaaagcat
+     1561 gagatattgg gaacacctac agacactgct ctattggagt ttggcttgtc acttggtgga
+     1621 aatttccaaa cagagagaca agcttctaaa cttgttaaag ttgagccatt caactcaaca
+     1681 aagaaacgga tgggggtaat cctggaactt cctgagggag gtctgcgagc acacaccaaa
+     1741 ggtgcctcag aaatagtttt ggccagctgc gaaaaggtga tcaatacaaa tggcgaaatt
+     1801 gttccccttg atgaagcatc catcaaccat ctcaaagtta ctattgagca atttgcttgt
+     1861 gaggcccttc gaactctatg tcttgcctat gtggaactag aaaatggttt ctctcctcag
+     1921 aatcctattc ctgtttctgg ttatacttgt ataggaattg tgggaattaa agatcctgtt
+     1981 cgtcccggtg tcaaggagtc cgttgcaatt tgccgttcag ctggtatcgt agtaagaatg
+     2041 gttacaggag acaatataaa tactgcaaag gctatagcaa gggaatgtgg gattctcact
+     2101 gatgatggca tagccattga aggcccggag ttcagggaga agaaccagga agaactgctt
+     2161 tcactcattc ctaaaattca ggtgatggct cgatcctcac ctctggacaa gcatacactg
+     2221 gtgaagcact tgcggaccac attcgatgaa gtcgttgctg tgaccggtga tggaacaaat
+     2281 gatgccccag cacttcacga ggcagacatt ggactagcca tgggcattgc tggaactgag
+     2341 gtggctaaag agagtgctga tgttctaatc ctggatgata atttctccac aattgtgaca
+     2401 gtggcaaaat ggggacgttc agtttacata aacattcaaa aatttgtgca gttccagctg
+     2461 acagttaata tagttgcttt gattgttaac ttctcctcag cttgtttgac agggagtgct
+     2521 cccctcacag ctgttcagct gttgtgggtc aacatgatca tggacacact aggagcactg
+     2581 gcacttgcaa ctgagcctcc aaataatgag ttgatgaagc gtccaccggt cggaaagaga
+     2641 caaaacttta tcactaacgt tatgtggagg aatattttag ggcagtcttt atatcagttt
+     2701 acagtgatat ggcttcttca ggcaaaagga acagcaatgt ttggtcttga cggaccagat
+     2761 tctcatgtga tcctcaacac tctcattttc aacacattcg tcttttgtca ggtttttaat
+     2821 gagataagct cccgtgagat ggaggaaata gatgtgttca agggcatatt ggataactac
+     2881 gtcttcgtcg gagtccttag ctccacagtt ctgttccaaa tcataattgt tgagttcctg
+     2941 ggaaaatttg caagcacagc acccctcacc ttggcacaat ggttcatcac tgtattcatt
+     3001 ggatttttag ggatgccaat tgctgctggt ataaagaaga ttcctgtttg a
+//
+LOCUS       PX505713                1539 bp    mRNA    linear   PLN 29-DEC-2025
+DEFINITION  Arabidopsis thaliana xylan 2-O-xylosyltransferase 3 (XYXT3) mRNA,
+            complete cds.
+ACCESSION   PX505713
+VERSION     PX505713.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1539)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Deciphering the Biochemical Functions and Nucleotide Sugar Donor
+            Specificity Determinants of Dicot GT61 Glycosyltransferases Involved
+            in Xylan Substitutions
+  JOURNAL   Plant Cell Physiol (2025) In press
+REFERENCE   2  (bases 1 to 1539)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) Department of Plant Biology, University of
+            Georgia, 2502 Miller Plant Sciences, Athens, GA 30602, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1539
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+     gene            1..1539
+                     /gene="XYXT3"
+     CDS             13..1527
+                     /gene="XYXT3"
+                     /codon_start=1
+                     /product="xylan 2-O-xylosyltransferase 3"
+                     /protein_id="YCJ02042.1"
+                     /translation="MVQYKRLIKKGEKHRLSVEEGGSGASAVTVSGGVYSKTAKQKLLL
+                     TIFLSLLSCCYIFSFSSFSLLGAFSRESKGFGPYELFIAPLCSGTSNGTICCDRTGSRS
+                     DVCIMKGDVRTHSASSSVFLFTSLKNKTKITKKIKPYTRKWETSVMQTVQELNLVYRDE
+                     ENNSLVVSSVNDICDVFYNVPAVFFSTGGYTGNVYHEFNDGIIPLFITSHHFNKKVVFV
+                     IVEYHSWWIMKYGDIVSQLSDYPPVDFNGDKRTHCFKEAIVGLKIHDELTVESSLMLGN
+                     KTILDFRNVLDQAYWPRIHGLIQEEELKAANKTEDGFKKPILVILSRNGSREILNESLL
+                     VELAEEIGFIVHVLRPDKTTELAKIYRCLNSSDVMIGVHGAAMTHLLFLKPKTVFIQII
+                     PIGTEWAAETYYGKPAKKMRLKYIGYKIKPKESSLYDEYGIDDPIIRDPKSFTQKGWDY
+                     TKKIYLERQNVKLDLKRFRKPLSRAYDFSMKRIGLVYISHKPDVTN"
+ORIGIN
+        1 gttcgataga aaatggttca atacaaaaga ctaattaaaa aaggagaaaa gcatagactt
+       61 tcggtagaag aaggtggttc cggtgcctcc gccgtcactg tctccggcgg tgtgtactca
+      121 aagacagcca aacagaagct tctcttaact atctttctct ctttgctctc atgctgttac
+      181 atcttcagct tctcctcttt ctctcttcta ggtgctttta gcagagaaag taaaggattt
+      241 ggtccttatg aactgttcat tgcacctctt tgttcaggaa cctctaatgg aacaatttgt
+      301 tgtgacagaa ccggttctag atccgacgtt tgtatcatga aaggagacgt taggacacac
+      361 tctgcttcgt catcagtctt cctcttcact tccctcaaaa acaagaccaa gatcacgaaa
+      421 aagatcaaac cttacacaag aaaatgggaa acaagtgtga tgcaaacagt tcaagaactc
+      481 aatctcgttt acagagatga agaaaacaat tctttagtcg tctcctctgt taatgacatc
+      541 tgcgatgtgt tctataacgt tcctgctgtg tttttctcaa ctggtggata tacaggaaat
+      601 gtttaccacg aattcaacga tggaatcatc cctttgttca tcacttcaca tcatttcaac
+      661 aagaaggttg tgtttgtgat tgttgagtat catagttggt ggattatgaa atatggagat
+      721 atcgtttctc agctatcaga ttatcctcct gtcgacttta acggcgacaa gagaacacat
+      781 tgtttcaagg aagctattgt gggattgaag attcacgacg agttaaccgt tgaatcatcg
+      841 ttgatgcttg ggaataaaac aattcttgat ttcagaaatg tgctggatca ggcttattgg
+      901 ccacgtatcc atggattgat tcaagaggaa gaactcaagg cagctaacaa gacagaagac
+      961 ggtttcaaga aaccaatatt ggtgattctg tctagaaatg gatcgaggga gatactaaat
+     1021 gagagtcttt tggttgaatt agctgaggaa attggattca tcgtccatgt tttgagaccg
+     1081 gataaaacaa cagagctggc aaaaatctac agatgtttga attctagtga tgtgatgatt
+     1141 ggtgttcacg gagctgcaat gacacattta cttttcttga aaccgaaaac agtctttata
+     1201 cagattatac caataggaac cgaatgggct gctgagactt actatggtaa accagctaag
+     1261 aagatgagat tgaagtacat tggttacaag attaaaccga aagagagctc tttgtacgat
+     1321 gaatatggca tcgatgatcc cattatccga gatcctaaga gttttactca aaaaggatgg
+     1381 gattacacta agaagattta tcttgagcgc caaaacgtga agcttgattt gaaaagattt
+     1441 aggaaaccgt tgtctcgtgc ttatgatttc tcgatgaagc gaattggact ggtgtatatc
+     1501 agtcacaaac cggatgttac caattaaacc ggggtttga
+//
+LOCUS       PX505712                1523 bp    mRNA    linear   PLN 29-DEC-2025
+DEFINITION  Arabidopsis thaliana xylan 2-O-xylosyltransferase 2 (XYXT2) mRNA,
+            complete cds.
+ACCESSION   PX505712
+VERSION     PX505712.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1523)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Deciphering the Biochemical Functions and Nucleotide Sugar Donor
+            Specificity Determinants of Dicot GT61 Glycosyltransferases Involved
+            in Xylan Substitutions
+  JOURNAL   Plant Cell Physiol (2025) In press
+REFERENCE   2  (bases 1 to 1523)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) Department of Plant Biology, University of
+            Georgia, 2502 Miller Plant Sciences, Athens, GA 30602, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1523
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+     gene            1..1523
+                     /gene="XYXT2"
+     CDS             7..1509
+                     /gene="XYXT2"
+                     /codon_start=1
+                     /product="xylan 2-O-xylosyltransferase 2"
+                     /protein_id="YCJ02041.1"
+                     /translation="MVQYQRLIIHHGRKEDKFRVSSAEESGGGGCCYSKRAKQKFRCLL
+                     FLSILSCCFVLSPYYLFGFSTLSLLDSFRREIEGLSSYEPVITPLCSEISNGTICCDRT
+                     GLRSDICVMKGDVRTNSASSSIFLFTSSTNNNTKPEKIKPYTRKWETSVMDTVQELNLI
+                     TKDSNKSSDRVCDVYHDVPAVFFSTGGYTGNVYHEFNDGIIPLFITSQHYNKKVVFVIV
+                     EYHDWWEMKYGDVVSQLSDYPLVDFNGDTRTHCFKEATVGLRIHDELTVNSSLVIGNQT
+                     IVDFRNVLDRGYSHRIQSLTQEETEANVTALDFKKKPKLVILSRNGSSRAILNENLLVE
+                     LAEKTGFNVEVLRPQKTTEMAKIYRSLNTSDVMIGVHGAAMTHFLFLKPKTVFIQIIPL
+                     GTDWAAETYYGEPAKKLGLKYVGYKIAPKESSLYEEYGKDDPVIRDPDSLNDKGWEYTK
+                     KIYLQGQNVKLDLRRFRETLTRSYDFSIRRRFREDYLLHRED"
+ORIGIN
+        1 cagaagatgg tgcagtacca gagattaatc atccaccatg gaagaaaaga agataagttt
+       61 agagtttctt cagcagagga aagtggtgga ggtggttgtt gctactccaa gagagctaaa
+      121 caaaagtttc gttgtcttct ctttctctct atcctctctt gctgtttcgt cttgtctcct
+      181 tattacctct tcggcttctc tactctctcc ctcctagatt cgtttcgcag agaaatcgaa
+      241 ggtcttagct cttatgagcc agttattacc cctctgtgct cagaaatctc caatggaacc
+      301 atttgttgtg acagaaccgg tttgagatct gatatttgtg taatgaaagg tgatgttcga
+      361 acaaactctg cttcttcctc aatcttcctc ttcacctcct ccaccaataa caacacaaaa
+      421 ccggaaaaga tcaaacctta cactagaaaa tgggagacta gtgtgatgga caccgttcaa
+      481 gaactcaacc tcatcaccaa agattccaac aaatcttcag atcgtgtatg cgatgtgtac
+      541 catgatgttc ctgctgtgtt cttctccact ggtggataca ccggtaacgt ataccacgag
+      601 tttaacgacg ggattatccc tttgtttata acttcacagc attacaacaa aaaagttgtg
+      661 tttgtgatcg tcgagtatca tgactggtgg gagatgaagt atggagatgt cgtttcgcag
+      721 ctctcggatt atcctctggt tgatttcaat ggagatacga gaacacattg tttcaaagaa
+      781 gcaaccgttg gattacgtat tcacgacgag ttaactgtga attcttcttt ggtcattggg
+      841 aatcaaacca ttgttgactt cagaaacgtt ttggataggg gttactcgca tcgtatccaa
+      901 agcttgactc aggaggaaac agaggcgaac gtgaccgcac tcgatttcaa gaagaagcca
+      961 aaactggtga ttctttcaag aaacgggtca tcaagggcga tattaaacga gaatcttctc
+     1021 gtggagctag cagagaaaac agggttcaat gtggaggttc taagaccaca aaagacaacg
+     1081 gaaatggcca agatttatcg ttcgttgaac acgagcgatg taatgatcgg tgtacatgga
+     1141 gcagcaatga ctcatttcct tttcttgaaa ccgaaaaccg ttttcattca gatcatccca
+     1201 ttagggacgg actgggcggc agagacatat tatggagaac cggcgaagaa gctaggattg
+     1261 aagtacgttg gttacaagat tgcgccgaaa gagagctctt tgtatgaaga atatgggaaa
+     1321 gatgaccctg taatccgaga tccggatagt ctaaacgaca aaggatggga atatacgaag
+     1381 aaaatctatc tacaaggaca gaacgtgaag cttgacttga gaagattcag agaaacgtta
+     1441 actcgttcgt atgatttctc cattagaagg agatttagag aagattactt gttacataga
+     1501 gaagattaag aatcgtgtga tat
+//
+LOCUS       PX505711                1518 bp    mRNA    linear   PLN 29-DEC-2025
+DEFINITION  Arabidopsis thaliana xylan 2-O-xylosyltransferase 1 (XYXT1) mRNA,
+            complete cds.
+ACCESSION   PX505711
+VERSION     PX505711.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1518)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Deciphering the Biochemical Functions and Nucleotide Sugar Donor
+            Specificity Determinants of Dicot GT61 Glycosyltransferases Involved
+            in Xylan Substitutions
+  JOURNAL   Plant Cell Physiol (2025) In press
+REFERENCE   2  (bases 1 to 1518)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) Department of Plant Biology, University of
+            Georgia, 2502 Miller Plant Sciences, Athens, GA 30602, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1518
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+     gene            1..1518
+                     /gene="XYXT1"
+     CDS             13..1497
+                     /gene="XYXT1"
+                     /codon_start=1
+                     /product="xylan 2-O-xylosyltransferase 1"
+                     /protein_id="YCJ02040.1"
+                     /translation="MRQNLKKVAQIKVDESKKLFPYVFRVKTSCGNCAKRSKPKLIYLL
+                     IFSLISSCFVFAPQLLCFPYPSALFLIDSSIKEIENRVSESNIESPKTSQKEESISCDR
+                     TGYRSDICFMKGDIRTHSPSSSIFLYTSNDLTTDQVLQEKIKPYTRKWETSIMETIPEL
+                     KLVTKDMKLFGDKRKCEVIHEVPAVLFSTGGYTGNLYHEFNDGLIPLYITSKRFNKKVV
+                     FVIAEYHKWWEMKYGDVLSQLSDYSLIDFNKDKRTHCFKEAIVGLRIHGELTVDPSQMQ
+                     DDGTTINEFRNVLDRAYRPRINRLDRLEEQRFHARLAQRRKAKRPKLALFSRTGSRGIT
+                     NEDLMVKMAQRIGFDIEVLRPDRTTELAKIYRVLNSSKVMVGVHGAAMTHFLFMKPGSI
+                     FIQIIPLGTDWAAETYYGEPAKKLGLDYNGYKILPRESSLYEKYDKDDPILKDPNSITK
+                     KGWQFTKGIYLNDQKVRLDLHRFKKLLIDAYAKSIR"
+ORIGIN
+        1 aacaagtaaa ggatgaggca gaatctgaaa aaagtagcac agatcaaagt agacgaatct
+       61 aagaagctat ttccttatgt cttccgggtt aaaacttctt gtgggaattg cgctaagaga
+      121 tcgaagccta agcttatcta tcttcttatc ttctctctta tctcaagttg ctttgtcttt
+      181 gctcctcagc tcctctgttt cccttacccc tctgctctgt ttctcatcga ttcttcaatt
+      241 aaagagattg aaaatcgggt ttccgaaagc aatatagaat cacctaagac gtcacaaaaa
+      301 gaagagagca tatcttgtga cagaaccggc tatcgttcag acatctgttt catgaaaggc
+      361 gatatcagaa cacactctcc ttcctcctcc atctttctct acacctcgaa tgatctcacc
+      421 accgatcagg tcttgcaaga aaaaatcaaa ccatacacca gaaaatggga aactagtata
+      481 atggaaacca tccctgagct caaacttgtg acaaaagata tgaagctttt tggcgacaag
+      541 cgtaaatgcg aagtgatcca tgaagtaccg gccgtgctat tctctaccgg aggatatacc
+      601 ggaaacctct atcatgagtt caacgacggg cttattcctt tgtatataac atctaaacgt
+      661 ttcaacaaaa aggttgtctt tgtgattgct gagtatcaca agtggtggga gatgaagtat
+      721 ggagatgttc tctctcagct ctctgattac tctcttatcg acttcaacaa agacaagaga
+      781 actcactgct tcaaggaagc tattgttggt cttagaatcc atggtgagtt aaccgtcgat
+      841 ccttctcaga tgcaagatga tggaacaacc atcaatgagt tcagaaatgt acttgatcga
+      901 gcttatagac cacgaatcaa cagactggac aggctagagg agcaacgatt ccacgcaaga
+      961 ctagcacaga gaagaaaggc taagaggcca aaactagcgt tgttttcaag aaccgggtct
+     1021 cgagggataa caaacgagga cctgatggtg aaaatggctc agaggatcgg gtttgacatc
+     1081 gaggttttga gacctgacag aacaacggaa ctggcaaaga tttacagagt gttaaactca
+     1141 agcaaagtca tggttggggt acatggagca gccatgaccc attttctgtt catgaaacct
+     1201 ggaagtatct ttattcagat cattccactg ggaacagatt gggcagcaga gacatattat
+     1261 ggagaaccgg caaagaagct cggtctagac tacaatggtt ataagattct tccaagagag
+     1321 agctcattgt atgaaaaata tgataaagat gatccaattc taaaagatcc aaacagcatc
+     1381 actaagaaag gatggcaatt cacaaagggg atatacctga acgaccagaa agtgaggtta
+     1441 gatctccata gattcaagaa gcttttgatt gatgcgtatg caaaatcgat taggtgacct
+     1501 gaaatgagtt ttgagagt
+//
+LOCUS       PX505710                1432 bp    mRNA    linear   PLN 29-DEC-2025
+DEFINITION  Arabidopsis thaliana xylan 2-O-arabinofuranosyltransferase 1 (X2AT1)
+            mRNA, complete cds.
+ACCESSION   PX505710
+VERSION     PX505710.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1432)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Deciphering the Biochemical Functions and Nucleotide Sugar Donor
+            Specificity Determinants of Dicot GT61 Glycosyltransferases Involved
+            in Xylan Substitutions
+  JOURNAL   Plant Cell Physiol (2025) In press
+REFERENCE   2  (bases 1 to 1432)
+  AUTHORS   Zhong,R., Zhou,D., Phillips,D.R., Adams,E.R., Wang,B.-C. and
+            Ye,Z.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) Department of Plant Biology, University of
+            Georgia, 2502 Miller Plant Sciences, Athens, GA 30602, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1432
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+     gene            1..1432
+                     /gene="X2AT1"
+     CDS             11..1423
+                     /gene="X2AT1"
+                     /codon_start=1
+                     /product="xylan 2-O-arabinofuranosyltransferase 1"
+                     /protein_id="YCJ02039.1"
+                     /translation="MTKKDILYDTVLARSFSKTDQKRLCCGAFIASLLLVLTLCTVVKP
+                     YLSPLPIVELQLSVGTGLRMLSITELTTNTTISKEEVISECNKMEKPICHCNTLGSKEF
+                     CDVSGDVRIHGKSATVLAAVTFAFSGNSTWYMRPYARKDQVPAMKRVREWTVKLVQNAS
+                     LSRCVRNHSVPAILFSLGGFSLNNFHDFTDIVIPLYTTARRFSGEVQFLVTNKNLLWIN
+                     KFKELVRKLSNYEVIYIDEEDETHCFSSVIVGLNRHRDYDKELTTDPSNSEYSMSDFRK
+                     FLRDTYSLRNSAVTTRRKPRILILSRSRSRAFVNAGEIARAARQIGFKVVVAEANTEIA
+                     SFAITVNSCDVMLGVHGAGMTNMVFLPDNAIVIQILPIGGFEWLAKMDFEYPSKGMNLR
+                     YLEYKITAEESTLVKQYGRDHEFVRDPLAVAKRGWGTFKSVYLVQQNVSVDINRFKLVL
+                     VKALELLHNQSV"
+ORIGIN
+        1 gagtcaagag atgacaaaga aggatattct ttacgataca gtacttgctc gtagttttag
+       61 caaaactgat cagaagagac tttgctgtgg agctttcatt gcctctcttc tcttggtcct
+      121 cactctttgc actgtcgtta aaccttatct cagcccttta ccaatcgtgg agttacagtt
+      181 atcagttggc actggtctaa ggatgctgag tataacagaa ttaactacca acactacaat
+      241 ctccaaagaa gaagttattt cagagtgcaa taaaatggag aaacctatct gtcactgtaa
+      301 cacactagga agcaaagagt tttgcgatgt aagcggcgac gtaagaatcc atggtaaatc
+      361 cgcaactgtt cttgcggcgg tcacgtttgc gttttccggg aattccacgt ggtatatgag
+      421 accttatgcg agaaaagacc aagttcctgc catgaaacgc gtgagagaat ggacggtgaa
+      481 attagtacaa aacgctagtt tatcacgctg cgttaggaat cacagcgttc cggcgattct
+      541 tttctctctc ggaggcttct cgttgaacaa tttccatgat ttcacggaca tcgtgattcc
+      601 tctgtacacg acggcgcgta gattcagcgg tgaagttcag ttcctcgtga cgaacaagaa
+      661 tcttttgtgg atcaacaaat ttaaggaatt agtgaggaaa ctctctaatt acgaagtgat
+      721 ttacatcgac gaagaagacg aaacgcattg tttcagcagc gtcatcgttg gtctcaatcg
+      781 ccaccgtgat tatgacaaag agctaacgac tgatccttcg aattcggagt attcaatgtc
+      841 cgatttccgg aaattcctca gagacacata ctcattgaga aactccgccg tgactacgag
+      901 gcggaagcca cggattctga ttttgtctag gagcagatcg cgagcgtttg tgaacgcggg
+      961 tgaaatcgct agagcggcga gacaaatcgg atttaaagtc gtggtggcgg aagcaaacac
+     1021 ggaaatcgcg agtttcgcaa taactgtgaa ctcctgtgac gtgatgctcg gcgttcacgg
+     1081 cgcggggatg acgaacatgg tgttcttacc tgataacgcg atcgtgattc agattcttcc
+     1141 gatcggtgga ttcgagtggc ttgcaaagat ggatttcgag tatccgtcga agggcatgaa
+     1201 tctgaggtat ttggagtaca agatcacggc ggaggagagc acactggtga agcagtacgg
+     1261 acgcgatcac gagttcgtta gagatccatt ggccgttgca aaacgcgggt ggggaacttt
+     1321 caagtcggtt tatttggtac agcagaacgt tagcgttgat ataaaccggt tcaagctggt
+     1381 tcttgtcaaa gctcttgagc tattgcataa tcagtcagtg taaataagta ac
+//
+LOCUS       PX441354                1686 bp    mRNA    linear   PLN 23-DEC-2025
+DEFINITION  Arabidopsis thaliana 4-coumarate-CoA ligase mRNA, complete cds.
+ACCESSION   PX441354
+VERSION     PX441354.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1686)
+  AUTHORS   Wei,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) School of Pharmaceutical Sciences, Zhengzhou
+            University, No. 100 Science Avenue, Zhengzhou City, Zhengzhou, Henan
+            450001, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1686
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+                     /geo_loc_name="China"
+                     /lat_lon="34.81 N 113.53 E"
+                     /collection_date="26-Sep-2024"
+                     /collected_by="Yongjun, Wei"
+     CDS             1..1686
+                     /note="4CL"
+                     /codon_start=1
+                     /product="4-coumarate-CoA ligase"
+                     /protein_id="YCB57831.1"
+                     /translation="MAPQEQAVSQVMEKQSNNNNSDVIFRSKLPDIYIPNHLSLHDYIF
+                     QNISEFATKPCLINGPTGHVYTYSDVHVISRQIAANFHKLGVNQNDVVMLLLPNCPEFV
+                     LSFLAASFRGATATAANPFFTPAEIAKQAKASNTKLIITEARYVDKIKPLQNDDGVVIV
+                     CIDDNESVPIPEGCLRFTELTQSTTEASEVIDSVEISPDDVVALPYSSGTTGLPKGVML
+                     THKGLVTSVAQQVDGENPNLYFHSDDVILCVLPMFHIYALNSIMLCGLRVGAAILIMPK
+                     FEINLLLELIQRCKVTVAPMVPPIVLAIAKSSETEKYDLSSIRVVKSGAAPLGKELEDA
+                     VNAKFPNAKLGQGYGMTEAGPVLAMSLGFAKEPFPVKSGACGTVVRNAEMKIVDPDTGD
+                     SLSRNQPGEICIRGHQIMKGYLNNPAATAETIDKDGWLHTGDIGLIDDDDELFIVDRLK
+                     ELIKYKGFQVAPAELEALLIGHPDITDVAVVAMKEEAAGEVPVAFVVKSKDSELSEDDV
+                     KQFVSKQVVFYKRINKVFFTESIPKAPSGKILRKDLRAKLANGL"
+ORIGIN
+        1 atggctccac aagaacaagc tgtttctcaa gttatggaaa aacaatctaa caacaacaac
+       61 tctgatgtta ttttcagatc taagttgcca gatatttaca ttccaaatca tttgtctctg
+      121 catgattata ttttccaaaa catctctgag ttcgctacaa aaccatgttt aattaatggt
+      181 ccaactggtc atgtttatac atattctgat gttcatgtca tctctagaca aattgctgct
+      241 aattttcata agttgggtgt taatcaaaac gatgttgtta tgttgttgtt gccaaattgt
+      301 ccagaatttg ttttgtcttt tctggctgct tcttttagag gtgctacagc tacagctgct
+      361 aatccatttt ttacaccagc tgaaattgct aaacaagcta aagcttctaa tacaaaactg
+      421 attatcaccg aagctagata tgttgataaa attaagccat tgcagaacga tgatggtgtt
+      481 gttattgttt gtattgatga taacgagtct gttccaattc cagaaggttg tttgagattt
+      541 actgaattga cacaatctac tacagaagct tctgaagtta ttgattctgt tgaaatttcc
+      601 ccagatgatg ttgttgcttt accatattct tctggtacaa caggtttacc aaaaggtgtt
+      661 atgttgactc ataaaggttt agttacatct gttgctcaac aagttgatgg tgaaaatcca
+      721 aatttatact tccattctga cgatgttatc ttgtgtgttt tgccaatgtt tcatatttac
+      781 gctttaaact ctatcatgtt gtgtggttta agagttggtg ctgctatttt aattatgcca
+      841 aaatttgaga tcaacctgtt gttagaattg attcaaagat gtaaggtcac tgttgctcca
+      901 atggttccac caattgtttt agctattgct aaatcttctg agactgaaaa atacgatttg
+      961 tcttctatta gggttgttaa atctggtgct gctccattgg gtaaagaatt ggaagatgct
+     1021 gttaatgcta aatttccaaa tgctaaactg ggtcaaggtt atggtatgac tgaagctggt
+     1081 ccagttttag ctatgtcttt aggttttgct aaagaaccat ttccagttaa atctggagct
+     1141 tgtggtactg ttgttagaaa tgctgaaatg aaaatcgttg atccagatac tggtgattct
+     1201 ttatctagaa atcaaccagg tgaaatttgt attagaggtc atcaaattat gaagggttat
+     1261 ttaaacaacc cagctgctac agctgaaaca attgataaag atggttggtt acatactggt
+     1321 gatattggtt tgattgatga tgatgatgaa ttgtttatcg tcgatagatt gaaagaattg
+     1381 atcaaataca agggtttcca agttgctcca gctgaattgg aagctttgtt aattggtcat
+     1441 ccagatatta cagatgttgc tgttgttgct atgaaagaag aagctgctgg tgaagttcca
+     1501 gttgcttttg ttgttaaatc aaaagattcc gaactgtctg aagatgatgt taaacaattt
+     1561 gtttccaagc aagttgtttt ctataagaga attaacaagg tcttcttcac agaatctatt
+     1621 ccaaaagctc catctggtaa aattttaaga aaggatttga gggctaagtt ggctaatggt
+     1681 ttataa
+//
